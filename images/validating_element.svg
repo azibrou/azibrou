@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>validating_element</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bulk-Upload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-Bulk-Validating-Data" transform="translate(-440.000000, -202.000000)">
+            <g id="validating_element" transform="translate(440.000000, 202.000000)">
+                <path d="M0,10 L25,0 L25,30 L0,40 L0,10 Z M25,0 L50,10 L50,40 L25,30 L25,0 Z" id="Combined-Shape" fill="#94D8D8"></path>
+                <path d="M0,10 L25,20 L25,50 L0,40 L0,10 Z M25,20 L50,10 L50,40 L25,50 L25,20 Z" id="Combined-Shape" fill="#4DBFBF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

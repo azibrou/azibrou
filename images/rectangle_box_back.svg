@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="63px" viewBox="0 0 100 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bulk-Upload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Bulk-Loading-file" transform="translate(-445.000000, -270.000000)" stroke="#D1DDE0" stroke-width="2" fill="#FFFFFF">
+            <g id="Group-4" transform="translate(446.000000, 271.000000)">
+                <rect id="rectangle_box_back" x="4" y="0" width="90" height="57"></rect>
+                <rect id="rectangle_box_back" x="8" y="4" width="82" height="43"></rect>
+                <g id="Group-2" transform="translate(1.000000, 53.000000)">
+                    <rect id="rectangle_box_back" x="0" y="0" width="8" height="7"></rect>
+                    <rect id="rectangle_box_back" x="11" y="0" width="8" height="7"></rect>
+                    <rect id="rectangle_box_back" x="22" y="0" width="8" height="7"></rect>
+                    <rect id="rectangle_box_back" x="33" y="0" width="30" height="7"></rect>
+                    <rect id="rectangle_box_back" x="66" y="0" width="8" height="7"></rect>
+                    <rect id="rectangle_box_back" x="77" y="0" width="8" height="7"></rect>
+                    <rect id="rectangle_box_back" x="88" y="0" width="8" height="7"></rect>
+                </g>
+                <polygon id="rectangle_box_back" points="25 8 41.4209728 8 41.8671174 12 75 12 70 43 28 43"></polygon>
+                <rect id="rectangle_box_back" x="0" y="54" width="98" height="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
